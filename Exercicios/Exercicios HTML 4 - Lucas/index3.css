@@ -1,0 +1,24 @@
+#Vermelho{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+#Times{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: green;
+}
+#Sans{
+    font-family:  Comic Sans Serif;
+    font-size: 20px;
+    color: blue;
+
+}
+#Fim{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: yellow;
+    font-weight: bolder;
+    
+
+}

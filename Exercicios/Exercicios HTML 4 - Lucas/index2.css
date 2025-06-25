@@ -1,0 +1,42 @@
+body {
+  background-color: aqua;
+}
+p {
+  background-color: greenyellow;
+}
+#Ola {
+    width: 90%;
+    height: 800px;
+  background-image: url(https://cdn.ome.lt/0Qo5h1Ops5XVGGJXeLrH3j8cRqs=/1200x630/smart/extras/conteudos/devil-may-cry.jpg);
+  background-repeat: repeat-y;
+}
+#Oi{
+    width: 90%;
+    height: 800px;
+    background-image: url(https://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg);
+    background-repeat: no-repeat;
+
+}
+#Opa{
+    width: 90%;
+    height: 800px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/pt/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+#Dor{
+    width: 3000px;
+    width: 3000px;
+    background-color: yellow;
+    
+    
+}
+#Melhor{
+    width: 3000px;
+    height: 800px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm7piRQDhRyoj1SH2PFmCY5qpf6kyu-WC88g&s);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
