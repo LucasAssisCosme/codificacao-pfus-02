@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap");
+
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHnoYmj2o6hbG1_3rL3PHczo1kl-nDsuXfQ&s);
+  background-repeat: no-repeat;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: blue;
+}
+p {
+  background-color: beige;
+  color: black;
+  padding: 5px;
+}
+#NaDireita {
+  text-align: right;
+}
+#NaEsquerda {
+  text-align: left;
+}
+#NoCentro {
+  text-align: center;
+}
+#Justificado {
+  text-align: justify;
+}
+#minusculo {
+  text-transform: lowercase;
+}
+#maiusculo {
+  text-transform: uppercase;
+}
+#Capitalizado {
+  text-transform: capitalize;
+}
+#Centraliza {
+  text-align: center;
+}
+h1 {
+  font-size: 80px;
+  font-weight: 400;
+  text-align: center;
+  text-shadow: 10px 5px gray;
+  background-image: url(https://d1m9vqlvl3fy94.cloudfront.net/role/attachment/1199353/default_708087_103119210_lazytown2.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+#decorado {
+  text-decoration: underline overline steelblue;
+}
+#OutraFonte {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: purple;
+}
+#FonteGoggle{
+    font-family: "Bitcount Grid Double", system-ui;
+
+}
+
+
+@font-face{
+    font-family: 'ShadowsIntoLight';
+    src: url("./fontes/ShadowsIntoLight-Regular.ttf");
+}
+#fontepersonalizada{
+     font-family: 'ShadowsIntoLight', sans-serif;
+     font-size: 50px;
+}
