@@ -1,7 +1,8 @@
-#Eterno{
-    background-color: brown;
-    text-align: center;
-    margin: 0px;
-    padding: 0px;
+body{
     font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+header{
+    list-style: none;
+    color: red;
 }
