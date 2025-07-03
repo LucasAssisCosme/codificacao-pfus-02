@@ -9,13 +9,13 @@ ul {
   margin: 0px;
   margin-right: 15px;
 display: inline;
-  text-align: center;
+  
 }
 li{
     font-size: 30px;
-    display: inline-block;
+    display: inline;
     width: 200px;
     height: 50px;
-    
-    
+    padding: 20px;
+  
 }

@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body{
+    background-color: cadetblue;
+}
+#navegacao{
+    width: 80%;
+    background-color: rgb(35, 0, 163);
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    color: white;
+    font-size: 30px;
+    overflow: auto;
+
+}
+.simbolo{
+    color: rgb(238, 234, 0);
+    font-size: 40px;
+
+}
+#item-menu{
+    list-style: none;
+    float: right;
+}
+
+li{
+    display: inline-block;
+    margin-left: 15px;
+    padding: 5px;
+
+}
+li:hover{
+    color: yellow;
+    background-color: black;
+    cursor: pointer;
+    border-radius: 15px ;
+    transform: scaleX(1.5);
+    transform: scaleY(1);
+}
+#Logo{
+   float: left;
+
+}
