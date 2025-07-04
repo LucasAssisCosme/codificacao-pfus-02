@@ -38,7 +38,7 @@ li:hover{
     color: yellow;
     background-color: black;
     cursor: pointer;
-    border-radius: 15px ;
+    border-radius: 90px ;
     transform: scaleX(1.5);
     transform: scaleY(1);
 }
