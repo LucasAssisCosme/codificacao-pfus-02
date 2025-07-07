@@ -47,6 +47,46 @@ li:hover{
 
 }
 
+main{
+    background-color: powderblue;
+    height: 2000px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 15px;
+    font-size: 30px;
+
+}
+
+#bloco{
+    background-color: gold;
+    height: 200px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 20px;
+}
+
+#linha-bloco{
+    background-color: coral;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 900;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+.mini-bloco{
+    background-color: khaki;
+    width: 30%;
+    margin-top: 5px;
+    display: inline-block;
+    height: 200px;
+    line-height: 200px;
+}
+
 @media  screen and (max-width: 900px){
     body{
     background-color: rgb(0, 217, 255);
