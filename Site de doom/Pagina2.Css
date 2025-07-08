@@ -1,27 +1,25 @@
-body{
-    background-color: black;
+body {
+  background-color: black;
 }
-#doom1{
-    height: 400px;
-    width: 600px;
-    position: relative;
-    bottom: 100px;
-    top: 5px;
-
-    
+#doom1 {
+  height: 400px;
+  width: 500px;
+  position: relative;
+  bottom: 100px;
+  top: 5px;
 }
-#doom2{
-     height: 400px;
-    width: 600px;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    top: 5px;
+#doom2 {
+  height: 400px;
+  width: 500px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  top: 5px;
 }
-#doom3{
-   height: 400px;
-    width: 600px; 
-    position: relative;
-
+#Doom3 {
+  height: 400px;
+  width: 500px;
+  position: relative;
+  left: 50%;
 }

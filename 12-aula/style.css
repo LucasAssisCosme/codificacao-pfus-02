@@ -1,0 +1,52 @@
+* {
+  background-color: rgb(0, 195, 255);
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px white;
+  font-size: 60px;
+}
+#block {
+  background-color: white;
+}
+#quad1 {
+  background-color: aqua;
+  flex-shrink: 0;
+}
+#quad2 {
+  background-color: aquamarine;
+  flex-grow: 1;
+}
+#quad3 {
+  background-color: gold;
+}
+.quad {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  /* display: inline-block; */
+}
+#Inline-block {
+  background-color: khaki;
+  display: inline-block;
+  width: 100%;
+}
+#flex {
+  background-color: cadetblue;
+  display: flex;
+  width: 100%;
+  height: 600px;
+  /* min-height: 100%; */
+  padding: 5px;
+  /* flex-wrap: wrap; */
+  gap: 20px;
+  /* flex-direction: column; */
+  flex-flow: nowrap row;
+   justify-content: center;
+   /* align-content: center; */
+   align-items: center;
+}
