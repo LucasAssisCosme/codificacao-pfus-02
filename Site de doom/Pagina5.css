@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+#Doom2{
+    position: relative;
+  margin-left: 650px;
+  margin-right: auto;
+
+}
+#Text{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    
+}
+#text{
+   color: white; 
+   text-align: center;
+   bottom: 0;
+  width: 100%;
+
+}
+#escudo{
+     position: relative;
+  margin-left: 850px;
+  margin-right: auto;
+    
+}

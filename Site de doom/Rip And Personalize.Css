@@ -6,12 +6,12 @@ body {
 .p1{
     font-size: 30px;
     color: red;
-    display: inline;
     width: 200px;
     height: 50px;
     padding: 20px;
     font-family: 'Courier New', Courier, monospace;
     text-decoration-color: red;
+    display: inline;
 
     
 }
@@ -71,4 +71,10 @@ footer{
 }
 #Div1{
   display: flex;
+}
+#Mini-Div{
+   width: 50%;
+}
+#Mini-Div2{
+  width: 50%;
 }

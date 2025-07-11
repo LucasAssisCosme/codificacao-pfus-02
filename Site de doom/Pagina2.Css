@@ -59,6 +59,7 @@ footer{
   width: 200px;
   position: relative;
   left: 1100px;
+  bottom: 500px;
 }
 #img4{
   position: relative;
@@ -66,4 +67,14 @@ footer{
   bottom: 700px;
   width: 500px;
   height: 500px;
+}
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+  text-align: center;
+}
+#Div1{
+  height: 25%;
 }
